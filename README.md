@@ -36,6 +36,7 @@ Body:
   "email": "alice@example.com",
   "phone": "1234567890",
   "role": "volunteer"
+}
 ```
 
 **Response**
