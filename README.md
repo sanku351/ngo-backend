@@ -14,10 +14,10 @@
   ```
 
 3. **ENV**
-   ```
-     cp .env
-     # edit .env with your MONGO_URI and ADMIN_TOKEN
-   ```
+```
+cp .env
+# edit .env with your MONGO_URI and ADMIN_TOKEN
+```
 
 4. **Run**
   ```
@@ -88,4 +88,3 @@ GET /api/users?adminToken=yoursecrettoken
   ]
 }
 ```
-}   
